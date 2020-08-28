@@ -1,0 +1,9 @@
+.country{
+    font-size: 2em;
+    font-weight: 600;
+}
+.show-city{
+    font-size: 2em;
+    font-weight: 600;
+    border-radius: 10px;
+}
